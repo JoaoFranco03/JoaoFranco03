@@ -1,5 +1,5 @@
 # Hi, I'm João 👋:
-I'm a final year student at a Bachelor on Computer Engineering at [ESTG - Politécnico de Leiria](https://github.com/IPLeiria).<br>Since I was young, I have had a passion for Technology, and for all the possibilities it brings us, and as such, I aim to expand my skills in the area, always aiming at the development of relevant and well-designed applications.<br>Lately, I've been studying Swift and SwiftUI, not only due to the recent expansion of the mobile market, but also because of my interest for the language and the iOS / macOS platform.
+I am a Student Researcher at the School of Technology and Management of the [Polytechnic Institute of Leiria](https://github.com/IPLeiria), where I also completed my Bachelor's degree in Computer Engineering and am currently pursuing a Master's degree in Mobile Computing - Computer Engineering.<br>From an early age, I developed a passion for Computer Science and all its possibilities, always aiming to expand my skills in the field and contribute to the development of relevant and well-designed applications.
 
 
 ## 🌐 Socials:
