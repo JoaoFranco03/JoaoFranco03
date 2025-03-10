@@ -15,11 +15,13 @@ I'm a Student Researcher at the [Polytechnic Institute of Leiria](https://github
 ## Connect With Me
 
 <p align="left">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black">
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
-    </picture>
+    <a href="https://www.linkedin.com/in/joão-p-franco/">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black">
+            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
+            <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
+        </picture>
+    </a>
 </p>
 
 ## Tech Stack
